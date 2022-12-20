@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  ChattingServer.cpp
+C:\Users\frontis\Desktop\R&D\12_IOCP\60-IOCP-Chatting\ChattingServer\ChattingServer.cpp(264,45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\frontis\Desktop\R&D\12_IOCP\60-IOCP-Chatting\ChattingServer\ChattingServer.cpp(214,16): warning C4101: 'flag' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\frontis\Desktop\R&D\12_IOCP\60-IOCP-Chatting\x64\Debug\ChattingServer.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  ChattingServer.vcxproj -> C:\Users\frontis\Desktop\R&D\12_IOCP\60-IOCP-Chatting\x64\Debug\ChattingServer.exe
